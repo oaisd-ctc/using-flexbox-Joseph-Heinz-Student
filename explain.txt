@@ -1,0 +1,24 @@
+Flex properties:
+ - flex-direction:
+    changes the way the flex items go inside of a flexbox container
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ - justify-content:
+    positions the flex items in a certain way along the main/x axis of the container
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ - align-items:
+    positions the flex items in a certaion way along the secondary/y axis of the container
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+Pseudo-classes:
+ - nth-child():
+    select the nth child of an element, n can be a number or a selector, like odd or even
+    https://www.w3schools.com/css/css_pseudo_classes.asp
+ - hover:
+    affects an element when it is hovered by the mouse
+    https://www.w3schools.com/css/css_pseudo_classes.asp
+ - first-child:
+    selects the first instance of a child of an element
+    https://www.w3schools.com/css/css_pseudo_classes.asp
+ - last-child:
+    selects the last instance of a child of an element
+    https://www.w3schools.com/css/css_pseudo_classes.asp
